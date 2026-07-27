@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /drafts/
 Disallow: /temp/
-Sitemap: https://resume.masri-programmer.de/sitemap.xml
+Sitemap: https://resume.masrisystems.com/sitemap.xml

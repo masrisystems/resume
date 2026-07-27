@@ -2,7 +2,7 @@
 
 **Mohamad Masri**  
 Oldenburg, Deutschland  
-hallo@masri-programmer.de  
+hallo@masrisystems.com  
 10. April 2026
 
 **Dr. Meyer & Meyer-Peteaux New Media Company GmbH & Co. KG**  

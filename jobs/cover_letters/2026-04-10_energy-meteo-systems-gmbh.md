@@ -2,7 +2,7 @@
 
 **Mohamad Masri**  
 Oldenburg, Deutschland  
-hallo@masri-programmer.de  
+hallo@masrisystems.com  
 [masri.blog](https://masri.blog)
 
 29. März 2026
