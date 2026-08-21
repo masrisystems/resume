@@ -3,7 +3,7 @@
 **Mohamad Masri**  
 Oldenburg, Deutschland  
 hallo@masrisystems.com  
-[masri.blog](https://masri.blog)
+[masrisystems.com/blog/](https://masrisystems.com/blog/)
 
 29. März 2026
 
